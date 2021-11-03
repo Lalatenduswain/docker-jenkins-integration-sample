@@ -14,7 +14,7 @@
     </properties>
     <build>
         <finalName>
-            docker-jenkins-integration-sample
+            docker-jenkins-integration-sample.1
         </finalName>
     </build>
 
